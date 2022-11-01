@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C1C04BA6291159CF00C37B24 /* SampleObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C04BA5291159CF00C37B24 /* SampleObject.swift */; };
 		C1C5F7A5290D0B4F0048C1F3 /* MiniMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C5F7A4290D0B4F0048C1F3 /* MiniMap.swift */; };
 		C1EACF62290BFA0100B2AECF /* InspectingTheViewTreeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1EACF61290BFA0100B2AECF /* InspectingTheViewTreeApp.swift */; };
 		C1EACF64290BFA0100B2AECF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1EACF63290BFA0100B2AECF /* ContentView.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C1C04BA5291159CF00C37B24 /* SampleObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleObject.swift; sourceTree = "<group>"; };
 		C1C5F7A4290D0B4F0048C1F3 /* MiniMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniMap.swift; sourceTree = "<group>"; };
 		C1EACF5E290BFA0100B2AECF /* InspectingTheViewTree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InspectingTheViewTree.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1EACF61290BFA0100B2AECF /* InspectingTheViewTreeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InspectingTheViewTreeApp.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			children = (
 				C1EACF61290BFA0100B2AECF /* InspectingTheViewTreeApp.swift */,
 				C1EACF63290BFA0100B2AECF /* ContentView.swift */,
+				C1C04BA5291159CF00C37B24 /* SampleObject.swift */,
 				C1C5F7A4290D0B4F0048C1F3 /* MiniMap.swift */,
 				C1EACF72290BFD6100B2AECF /* MyFormField.swift */,
 				C1EACF70290BFB2200B2AECF /* MyViewType.swift */,
@@ -152,6 +155,7 @@
 				C1EACF64290BFA0100B2AECF /* ContentView.swift in Sources */,
 				C1EACF73290BFD6100B2AECF /* MyFormField.swift in Sources */,
 				C1C5F7A5290D0B4F0048C1F3 /* MiniMap.swift in Sources */,
+				C1C04BA6291159CF00C37B24 /* SampleObject.swift in Sources */,
 				C1EACF62290BFA0100B2AECF /* InspectingTheViewTreeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
